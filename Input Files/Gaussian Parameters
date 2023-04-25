@@ -1,1 +1,0 @@
-#p opt b3lyp/6-31g(d,p) guess=save empiricaldispersion=gd3bj integral=  grid=ultrafinegrid scf=(tight,xqc,maxconventionalcycles=90)
