@@ -1,6 +1,7 @@
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/47638604/234381266-75837e2b-b7d7-4cd1-8be2-49dd5642d32a.png" />
+<img src= "https://user-images.githubusercontent.com/47638604/234387407-858814fe-5716-4c64-aace-86a4107093df.png" />
 </p>
+
 
 ## HiREX: High-Throughput Reactivity Exploration for Extended Databases of Transition Metal Catalysts
 
