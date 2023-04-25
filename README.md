@@ -1,4 +1,4 @@
-## High-Throughput Reactivity Exploration for Extended Databases of Transition Metal Catalysts
+# High-Throughput Reactivity Exploration for Extended Databases of Transition Metal Catalysts
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/47638604/234235397-47c5280c-17d6-4d9e-9717-e489f2639bce.png" />
