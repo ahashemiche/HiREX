@@ -18,3 +18,9 @@
 1. A. Hashemi, S. Bougueroua, M.-P. Gaigeot, and E. A. Pidko. “High-Throughput Reactivity Exploration for Extended Databases of Transition Metal Catalysts.” In: ChemRxiv (2023), [ChemRxive 2023](https://doi.org/10.26434/chemrxiv-2023-f76nv)
 
 2. Hashemi, A.; Bougueroua, S.; Gaigeot, M.-P and Pidko E. ReNeGate: A Reaction Network Graph-Theoretical Tool for Automated Mechanistic Studies in Computational Homogeneous Catalysis, [JCTC 2022](https://doi.org/10.1021/acs.jctc.2c00404). 
+
+## Support
+---
+
+If you find a bug with HiREX, please report it to the developer (ahashemiche@gmail.com). Comments and suggestions are also welcome.
+
