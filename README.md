@@ -21,9 +21,9 @@ HiREX is designed to analyze databases based on high-throughput reactivity explo
 ## Citation
 ---
 
-1. A. Hashemi, S. Bougueroua, M.-P. Gaigeot, and E. A. Pidko. “High-Throughput Reactivity Exploration for Extended Databases of Transition Metal Catalysts.” In: ChemRxiv (2023), [ChemRxive 2023](https://doi.org/10.26434/chemrxiv-2023-f76nv)
-2. Hashemi, A.; Bougueroua, S.; Gaigeot, M.-P and Pidko E. ReNeGate: A Reaction Network Graph-Theoretical Tool for Automated Mechanistic Studies in Computational Homogeneous Catalysis, [JCTC 2022](https://doi.org/10.1021/acs.jctc.2c00404). 
-3. A. V. Kalikadien, E. A. Pidko, and V. Sinha. “ChemSpaX: exploration of chemical space by automated functionalization of molecular scaffold”. In: Digital Discovery 1 (1 2022), pp. 8–25. [Digital Discovery 2022](https://doi.org/10.1039/D1DD00017A.)
+*  A. Hashemi, S. Bougueroua, M.-P. Gaigeot, and E. A. Pidko. “High-Throughput Reactivity Exploration for Extended Databases of Transition Metal Catalysts.” In: ChemRxiv (2023), [ChemRxive 2023](https://doi.org/10.26434/chemrxiv-2023-f76nv)
+* Hashemi, A.; Bougueroua, S.; Gaigeot, M.-P and Pidko E. ReNeGate: A Reaction Network Graph-Theoretical Tool for Automated Mechanistic Studies in Computational Homogeneous Catalysis, [JCTC 2022](https://doi.org/10.1021/acs.jctc.2c00404). 
+* A. V. Kalikadien, E. A. Pidko, and V. Sinha. “ChemSpaX: exploration of chemical space by automated functionalization of molecular scaffold”. In: Digital Discovery 1 (1 2022), pp. 8–25. [Digital Discovery 2022](https://doi.org/10.1039/D1DD00017A.)
 
 ## Support
 ---
