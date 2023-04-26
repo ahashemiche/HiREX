@@ -14,8 +14,8 @@
 
 HiREX is designed to analyze databases based on high-throughput reactivity explorations based on our previous ReNeGate code for extended databases of transition metal catalysts. Input structures used as starting point for reactivity explorations are produced by ChemSpaX code and stored in Structures/Input Structures in this repository.
 
-1. * __ReNeGaTe__: Reaction Network Graph Theoretical tool for automated mechanistic studies in computational homogeneous catalysis (https://github.com/ahashemiche/ReNeGate)
-2. * __ChemSpaX__: Exploration of chemical space by automated functionalization of molecular scaffold (https://github.com/EPiCs-group/chemspax)
+* __ReNeGaTe__: Reaction Network Graph Theoretical tool for automated mechanistic studies in computational homogeneous catalysis (https://github.com/ahashemiche/ReNeGate)
+* __ChemSpaX__: Exploration of chemical space by automated functionalization of molecular scaffold (https://github.com/EPiCs-group/chemspax)
 
 ## Citation
 ---
