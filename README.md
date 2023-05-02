@@ -24,7 +24,7 @@ Bias-free explorations on the starting structures are submitted via the CREST-ex
 
 * __ReNeGaTe__: Reaction Network Graph Theoretical tool for automated mechanistic studies in computational homogeneous catalysis [JCTC 2022](https://doi.org/10.1021/acs.jctc.2c00404). 
 
-HiREX code works based on databases of ReNeGaTe explorations on ChemSpaX libraries of catalyst structures "Database.xlsx". 
+HiREX code works based on databases of ReNeGaTe explorations on ChemSpaX libraries of catalyst structures "Database.xlsx". Databases are read as pandas dataframes: 
 
 ```python
 
@@ -32,15 +32,20 @@ import matplotlib.pyplot as plt, seaborn as sns, pandas as pd
 df = pd.read_excel('Database.xlsx', index_col=0) 
 
 ```
-Structures for explored species are stored in Structures. 
+Structures for explored species are stored in the output folder. 
 
-For K-mode clustering, Kmode package will be used based on the elbow curve method on the optimal number of cluster centers: 
-
+For K-mode clustering, Kmode package will be used on the optimal number of cluster centers: 
 
 ```python
 import numpy as np
 from kmodes.kmodes import KModes
+newdata = df[['Interaction']]
+km = KModes(n_clusters=7, init='Huang', n_init=5, verbose=0)
 
+clusters2 = km.fit_predict(newdata)
+
+# Print the cluster centroids
+print(km.cluster_centroids_)
 ```
 
 ### 📖 Citation
