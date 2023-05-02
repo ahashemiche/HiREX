@@ -1,11 +1,15 @@
 #!/bin/bash
 #set -x
 
-JOB=`basename $1 .xyz`
+for i in $(ls *.xyz)
+
+do
+
+JOB=`basename $i .xyz`
 
 mkdir $JOB
 
-cp $m $JOB/
+cp $i $JOB/
 
 cd $JOB
 
@@ -27,7 +31,7 @@ mkdir -p \$RUNDIR
 
 cd \${RUNDIR}
 
-srun --time=05:00:00 --partition=thin crest \$1 --alpb thf --tstep 2 -origin --verbose -nocross
+srun --time=05:00:00 --partition=thin crest \$i --alpb thf --tstep 2 -origin --verbose -nocross
 
 
 EOF
@@ -36,3 +40,5 @@ chmod 755 ${JOB}.run
 sbatch ${JOB}.run $m
 
 cp crest_* coord* *.log ${WORKDIR}
+
+done
