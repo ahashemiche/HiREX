@@ -24,11 +24,11 @@ Bias-free explorations on the starting structures are submitted via the CREST-ex
 
 * __ReNeGaTe__: Reaction Network Graph Theoretical tool for automated mechanistic studies in computational homogeneous catalysis [JCTC 2022](https://doi.org/10.1021/acs.jctc.2c00404). 
 
-HiREX code works based on databases of ReNeGaTe explorations on ChemSpaX libraries of catalyst structures "Database.xlsx". Databases are read as pandas dataframes: 
+HiREX code works based on databases of ReNeGaTe explorations on ChemSpaX libraries of catalyst structures. Databases are read as pandas dataframes: 
 
 ```python
 
-import matplotlib.pyplot as plt, seaborn as sns, pandas as pd
+import pandas as pd
 df = pd.read_excel('Database.xlsx', index_col=0) 
 
 ```
