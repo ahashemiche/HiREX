@@ -1,8 +1,10 @@
 <p align="center">
 <img src= "https://user-images.githubusercontent.com/47638604/234387407-858814fe-5716-4c64-aace-86a4107093df.png" />
 </a>
-    <a href="https://github.com/ahashemiche/HiREX/blob/main/LICENSE">
-        <img alt="PyPI - License" src="https://img.shields.io/github/license/ahashemiche/HiREX?style=plastic</p>" />
+<p align="center">
+<a href="https://github.com/ahashemiche/HiREX/blob/main/LICENSE">
+    <img src= "https://img.shields.io/github/license/ahashemiche/HiREX?style=plastic" />
+</a>    
 
 ## High-Throughput Reactivity Exploration for Extended Databases of Transition Metal Catalysts
 
