@@ -50,15 +50,18 @@ print(km.cluster_centroids_)
 
 ### 📖 Citation
 ---
-See the [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-f76nv) preprint.
+See the [HiREX Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00660).
 
 ```
-@article{hashemi2023,
-    doi = {10.26434/chemrxiv-2023-f76nv},
-    url = {https://doi.org/10.26434/chemrxiv-2023-f76nv},
-    year = 2023,
-    author={Hashemi, Ali and Bougueroua, Sana and Gaigeot, Marie-Pierre and Pidko, Evgeny},
-    title={High-Throughput Reactivity Exploration for Extended Databases of Transition Metal Catalysts},
+@article{doi:10.1021/acs.jcim.3c00660,
+author = {Hashemi, Ali and Bougueroua, Sana and Gaigeot, Marie-Pierre and Pidko, Evgeny A.},
+title = {HiREX: High-Throughput Reactivity Exploration for Extended Databases of Transition-Metal Catalysts},
+journal = {Journal of Chemical Information and Modeling},
+volume = {63},
+number = {19},
+pages = {6081-6094},
+year = {2023},
+doi = {10.1021/acs.jcim.3c00660}
 }
 
 ```
