@@ -50,7 +50,7 @@ print(km.cluster_centroids_)
 
 ### 📖 Citation
 ---
-See the [HiREX Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00660).
+See the [HiREX](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00660) Paper.
 
 ```
 @article{doi:10.1021/acs.jcim.3c00660,
